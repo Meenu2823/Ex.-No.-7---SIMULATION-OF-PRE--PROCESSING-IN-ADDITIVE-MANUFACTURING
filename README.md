@@ -43,9 +43,6 @@
 ![Screenshot 2023-12-11 160308](https://github.com/Meenu2823/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/6d824ab2-11f7-473c-b54f-49242edfa4c9)
 ![Screenshot 2023-12-11 160250](https://github.com/Meenu2823/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/b5f6cb93-56eb-4ffe-8cc7-fb371c4752c1)
 
-
-## Output:
-
 ### Name: Meenu.S
 ### Register Number: 212223230124
 
